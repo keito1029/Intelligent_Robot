@@ -1,0 +1,27 @@
+モデルの形状とカタログ等に記載されている寸法に差異がある可能性がありますので、必ずモデルの寸法をご確認ください	
+一部の製品につきましては、代表的なモデル提供のみの場合や、複数のCADモデルから構成されているアセンブリ品の場合があります。	
+<CAD MODEL TYPE CODE>で提供されているCADモデルの型式をご確認ください。	
+提供されているCADがアセンブリ品の場合、<CAD FILE NAME>で構成部材のCADのファイル名をご確認ください。	
+	
+There may be a difference between the offered CAD model shape and the dimensions described in the catalog. Please confirm the downloaded CAD model before using.	
+Please note that some products only offers partially omitted CAD models or representative CAD models.	
+Please refer <CAD MODEL TYPE CODE> for the type code of the offering CAD model.	
+If the offered CAD is assemblied with miltiple CAD models, please refer <CAD FILE NAME> to identify the component parts.	
+	
+模型的形状和目录中描述的尺寸等之间可能存在差异。请在使用CAD前确认模型的尺寸。	
+请注意，某些产品仅提供部分简略的CAD模型或代表模型。	
+有关提供的CAD模型的类型代码，请参考<CAD MODEL TYPE CODE>。	
+如果CAD模型是带有多个模型的组合模型，请参考<CAD FILE NAME>来识别零部件内容。	
+	
+<BRAND NAME>	
+	KOGANEI
+	
+<CAD MODEL TYPE CODE>	
+	YMDA16X30
+	
+<NUMBER OF FILES>	
+	1
+	
+<CAD FILE NAME>	
+	YMDA16X30.x_t
+
