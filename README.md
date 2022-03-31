@@ -6,8 +6,8 @@
     
 # Designed Robot Image    
     
-|<img width="%20" src="./images/Image from iOS.jpg" />|                
-|:--:|                
+|<img width="40%" src="./images/Image from iOS.jpg" />|                
+|:--|                
               
        
       
